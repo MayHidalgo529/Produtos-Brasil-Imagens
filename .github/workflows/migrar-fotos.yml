@@ -33,6 +33,7 @@ jobs:
                   elif data[:4]==b'RIFF' and data[8:12]==b'WEBP': ext='.webp'
                   elif data.lstrip()[:4]==b'<svg' or b'<svg' in data[:500]: ext='.svg'
                   elif data[:4]==b'GIF8': ext='.gif'
+                  elif data[4:8]==b'ftyp' and b'avif' in data[:24]: ext='.avif'
                   else: raise ValueError('Resposta não reconhecida como imagem: '+ct+'; bytes='+str(len(data)))
                   target=item['base']+ext
                   Path(target).parent.mkdir(parents=True,exist_ok=True)
