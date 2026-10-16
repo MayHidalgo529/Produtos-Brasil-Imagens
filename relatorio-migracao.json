@@ -1,0 +1,850 @@
+{
+  "total": 109,
+  "ok": 81,
+  "items": [
+    {
+      "id": "p1",
+      "slot": 1,
+      "source": "https://www.apple.com/newsroom/images/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/article/Apple-AirPods-5-hero-260909_big.jpg.large_2x.jpg",
+      "ok": true,
+      "path": "imagens/electronics/p1-1.jpg",
+      "bytes": 37030
+    },
+    {
+      "id": "p2",
+      "slot": 1,
+      "source": "https://www.apple.com/newsroom/images/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/article/Apple-AirPods-5-hero-260909_big.jpg.large_2x.jpg",
+      "ok": true,
+      "path": "imagens/electronics/p2-1.jpg",
+      "bytes": 37030
+    },
+    {
+      "id": "p3",
+      "slot": 1,
+      "source": "https://agirls.aottercdn.com/media/c41571cf-4aac-439d-b1d6-bbd3771ba1e5.png",
+      "ok": true,
+      "path": "imagens/electronics/p3-1.png",
+      "bytes": 307784
+    },
+    {
+      "id": "p3",
+      "slot": 2,
+      "source": "https://images.macrumors.com/t/71oUSjaxwNeE4b7rMhvUwxHzYVs%3D/1600x1200/smart/article-new/2026/01/Second-Generation-AirTag-Feature.jpg",
+      "ok": true,
+      "path": "imagens/electronics/p3-2.jpg",
+      "bytes": 58640
+    },
+    {
+      "id": "p4",
+      "slot": 1,
+      "source": "https://agirls.aottercdn.com/media/c41571cf-4aac-439d-b1d6-bbd3771ba1e5.png",
+      "ok": true,
+      "path": "imagens/electronics/p4-1.png",
+      "bytes": 307784
+    },
+    {
+      "id": "p5",
+      "slot": 1,
+      "source": "https://media.ulta.com/i/ulta/2659564?fmt=auto&h=800&w=800",
+      "ok": false,
+      "error": "Resposta não reconhecida como imagem: image/avif; bytes=19452"
+    },
+    {
+      "id": "p6",
+      "slot": 1,
+      "source": "https://bathbodyco.vtexassets.com/arquivos/ids/177196/028019057.jpg?v=639046992630230000",
+      "ok": true,
+      "path": "imagens/bbw/p6-1.webp",
+      "bytes": 160212
+    },
+    {
+      "id": "p7",
+      "slot": 1,
+      "source": "https://www.perfumes.com.ph/cdn/shop/files/bath-body-works-gingham-fragrance-mist-236ml-perfume-philippines-best-price.webp?crop=center&height=1200&v=1736128071&width=1200",
+      "ok": true,
+      "path": "imagens/bbw/p7-1.webp",
+      "bytes": 65208
+    },
+    {
+      "id": "p8",
+      "slot": 1,
+      "source": "https://cdn.platform.next/common/items/default/default/itemimages/3_4Ratio/product/lge/AH7709s.jpg?im=Resize%2Cwidth%3D750",
+      "ok": true,
+      "path": "imagens/bbw/p8-1.jpg",
+      "bytes": 953555
+    },
+    {
+      "id": "p9",
+      "slot": 1,
+      "source": "https://images-static.nykaa.com/media/catalog/product/7/0/70a6155667659359417.jpg",
+      "ok": false,
+      "error": "Resposta não reconhecida como imagem: image/avif; bytes=23140"
+    },
+    {
+      "id": "p10",
+      "slot": 1,
+      "source": "https://www.colorshow.pk/cdn/shop/products/BBW-223587.jpg?v=1638258123",
+      "ok": true,
+      "path": "imagens/bbw/p10-1.webp",
+      "bytes": 32800
+    },
+    {
+      "id": "p11",
+      "slot": 1,
+      "source": "https://cdn.platform.next/common/items/default/default/itemimages/3_4Ratio/product/lge/Y37390s.jpg?im=Resize%2Cwidth%3D750",
+      "ok": true,
+      "path": "imagens/bbw/p11-1.jpg",
+      "bytes": 642077
+    },
+    {
+      "id": "p12",
+      "slot": 1,
+      "source": "https://thefreshbeautyco.com/cdn/shop/files/I0161730largest_800x.jpg?v=1774663732",
+      "ok": true,
+      "path": "imagens/bbw/p12-1.webp",
+      "bytes": 38858
+    },
+    {
+      "id": "p13",
+      "slot": 1,
+      "source": "https://bestlifeonline.com/wp-content/uploads/sites/3/2025/06/2670334965_5007_content.jpg?resize=768",
+      "ok": true,
+      "path": "imagens/bbw/p13-1.webp",
+      "bytes": 127474
+    },
+    {
+      "id": "p14",
+      "slot": 1,
+      "source": "https://i5.walmartimages.com/asr/bf5a8916-7f77-40f5-b311-b98af4b364de.fcfddc1a92010d7b6cea3f66b5200f98.jpeg",
+      "ok": false,
+      "error": "Resposta não reconhecida como imagem: image/avif; bytes=78313"
+    },
+    {
+      "id": "p15",
+      "slot": 1,
+      "source": "https://i5.walmartimages.com/seo/Maybelline-Lash-Sensational-Sky-High-Washable-Mascara-Very-Black_99c74c87-fcbd-4d25-8f53-1498e98e61b7.7338d256fe79dcbb511a6a560b2087cc.jpeg",
+      "ok": false,
+      "error": "Resposta não reconhecida como imagem: image/avif; bytes=55947"
+    },
+    {
+      "id": "p16",
+      "slot": 1,
+      "source": "https://media.ulta.com/i/ulta/2604922_alt01?fmt=auto&h=800&w=800",
+      "ok": false,
+      "error": "Resposta não reconhecida como imagem: image/avif; bytes=5782"
+    },
+    {
+      "id": "p17",
+      "slot": 1,
+      "source": "https://media.falabella.com/falabellaPE/153014956_01/w%3D1200%2Ch%3D1200%2Cfit%3Dcover",
+      "ok": true,
+      "path": "imagens/beauty/p17-1.jpg",
+      "bytes": 59794
+    },
+    {
+      "id": "p18",
+      "slot": 1,
+      "source": "https://lynx-pay-prod.s3.amazonaws.com/g1r7xhcj1hqsl6ho33mrxgg5wmq6",
+      "ok": true,
+      "path": "imagens/beauty/p18-1.webp",
+      "bytes": 66188
+    },
+    {
+      "id": "p20",
+      "slot": 1,
+      "source": "https://glossyfeel.com/frd-data/img/product/2024/05/_46_frd_1715982103.jpg",
+      "ok": true,
+      "path": "imagens/fashion/p20-1.jpg",
+      "bytes": 33467
+    },
+    {
+      "id": "p21",
+      "slot": 1,
+      "source": "https://www.adorebeauty.com.au/pim_media/000/545/887/SKIN1004_Madagascar_Centella_Ampoule_55ml001.png?fmt=webp&h=772&w=772",
+      "ok": true,
+      "path": "imagens/fashion/p21-1.webp",
+      "bytes": 8948
+    },
+    {
+      "id": "p23",
+      "slot": 1,
+      "source": "https://produtos-brasil-catalogo.vercel.app/images/estate-ultimate-hydration-lip-oil-trio.jpg?v=2",
+      "ok": true,
+      "path": "imagens/beauty/p23-1.jpg",
+      "bytes": 203811
+    },
+    {
+      "id": "p26",
+      "slot": 1,
+      "source": "https://www.nike.ae/dw/image/v2/BDVB_PRD/on/demandware.static/-/Sites-akeneo-master-catalog/default/dwd0443a95/nk/521/e/4/f/7/6/521e4f76_da9f_4bca_811a_ded826b65613.png?q=100&sh=700&sm=fit&strip=false&sw=700",
+      "ok": true,
+      "path": "imagens/footwear/p26-1.png",
+      "bytes": 135691
+    },
+    {
+      "id": "p27",
+      "slot": 1,
+      "source": "https://www.sneakersnstuff.com/cdn/shop/files/AURORA_DQ8426-132_PHSRH000-2000__40815.1715686968.1280.1280.jpg?v=1749720451",
+      "ok": true,
+      "path": "imagens/footwear/p27-1.webp",
+      "bytes": 40810
+    },
+    {
+      "id": "p28",
+      "slot": 1,
+      "source": "https://hnau.imgix.net/media/catalog/product/n/i/nintendoswitch2-hw-25.png",
+      "ok": true,
+      "path": "imagens/electronics/p28-1.png",
+      "bytes": 724371
+    },
+    {
+      "id": "p28",
+      "slot": 2,
+      "source": "https://www.nintendo.com/hk/hardware/switch2/assets/img/modal-more/block-portable-before.png",
+      "ok": true,
+      "path": "imagens/electronics/p28-2.png",
+      "bytes": 157578
+    },
+    {
+      "id": "p30",
+      "slot": 1,
+      "source": "https://maestrihouse.com/cdn/shop/files/2_7d21e6d3-1187-4255-b46e-b681bc5917ed.png?v=1682585017",
+      "ok": true,
+      "path": "imagens/home/p30-1.webp",
+      "bytes": 47914
+    },
+    {
+      "id": "p31",
+      "slot": 1,
+      "source": "https://marketplace.mainstreet.co.in/cdn/shop/files/Artboard17_17b73098-379e-4eee-ba3f-c77c145d5da4.png?v=1769680891",
+      "ok": true,
+      "path": "imagens/home/p31-1.webp",
+      "bytes": 19084
+    },
+    {
+      "id": "p32",
+      "slot": 1,
+      "source": "https://m.media-amazon.com/images/I/81CWnvUBrrL._AC_US1000_.jpg",
+      "ok": true,
+      "path": "imagens/home/p32-1.jpg",
+      "bytes": 141718
+    },
+    {
+      "id": "p33",
+      "slot": 1,
+      "source": "https://www.bathandbodyworks.ca/dw/image/v2/BGFZ_PRD/on/demandware.static/-/Sites-bbw_ca-storefront-catalog/default/dw689f1b06/hires/028028305.jpg?q=60&sw=720",
+      "ok": false,
+      "error": "Resposta não reconhecida como imagem: image/avif; bytes=24069"
+    },
+    {
+      "id": "p34",
+      "slot": 1,
+      "source": "https://cdn.awsli.com.br/2500x2500/1336/1336280/produto/306535457/bath---body-works---body-splash-ghoul-friend-rf-importados-cwb-a1ij29r4af.jpg",
+      "ok": true,
+      "path": "imagens/bbw/p34-1.webp",
+      "bytes": 53688
+    },
+    {
+      "id": "p35",
+      "slot": 1,
+      "source": "https://cdn.awsli.com.br/2500x2500/2153/2153566/produto/303690460/15cf459825951d443bfb637c0e90c4a8-pw9eqhpnss.jpg",
+      "ok": true,
+      "path": "imagens/bbw/p35-1.webp",
+      "bytes": 37580
+    },
+    {
+      "id": "p36",
+      "slot": 1,
+      "source": "https://i5.walmartimages.com/asr/7b8b6d78-1faf-499b-b6d1-c0761211b411.203827453074449022b91394360c9c80.jpeg",
+      "ok": false,
+      "error": "Resposta não reconhecida como imagem: image/avif; bytes=83291"
+    },
+    {
+      "id": "p36",
+      "slot": 2,
+      "source": "https://gmfgcdn.azureedge.net/gmfgcdn-41100db7-5d96-426e-a77b-dbba44febaba/0003077205379_00.jpg?width=500",
+      "ok": true,
+      "path": "imagens/beauty/p36-2.jpg",
+      "bytes": 88579
+    },
+    {
+      "id": "p37",
+      "slot": 1,
+      "source": "https://assets.shop.loblaws.ca/products/21361226/b3/en/front/21361226_front_a06_%402.png",
+      "ok": true,
+      "path": "imagens/beauty/p37-1.png",
+      "bytes": 136107
+    },
+    {
+      "id": "p37",
+      "slot": 2,
+      "source": "https://media.sobeys.com/original/9018_EA_ML_PRIMARY_FRONT_NA_022723_VOILA_c61d07ee830c3d5da163760aec48b4513bc2bcba.JPG",
+      "ok": true,
+      "path": "imagens/beauty/p37-2.jpg",
+      "bytes": 76309
+    },
+    {
+      "id": "p38",
+      "slot": 1,
+      "source": "https://www.pharmacyonline.com.au/media/catalog/product/9/4/94591-691x691_1_.jpg?bg-color=255%2C255%2C255&canvas=700%3A700&fit=bounds&height=700&quality=80&width=700",
+      "ok": true,
+      "path": "imagens/home/p38-1.webp",
+      "bytes": 48590
+    },
+    {
+      "id": "p39",
+      "slot": 1,
+      "source": "https://cdn.terrywhitechemmart.com.au/product/1231685/f_2d.jpg",
+      "ok": true,
+      "path": "imagens/home/p39-1.jpg",
+      "bytes": 74694
+    },
+    {
+      "id": "p67",
+      "slot": 1,
+      "source": "https://i5.walmartimages.ca/asr/6ff3bc44-e3ff-49af-b0e5-9cb78dab5b5b.088750c4e0c46fd21e6475c4f6a6e6b0.jpeg",
+      "ok": false,
+      "error": "Resposta não reconhecida como imagem: image/avif; bytes=19881"
+    },
+    {
+      "id": "p67",
+      "slot": 2,
+      "source": "https://i5.walmartimages.com/asr/40b5c315-af51-4342-b179-f69f8ab19c6c.3038d7eaf25965f2a8b49461d6881f87.jpeg",
+      "ok": false,
+      "error": "Resposta não reconhecida como imagem: image/avif; bytes=17626"
+    },
+    {
+      "id": "p68",
+      "slot": 1,
+      "source": "https://media.ulta.com/i/ulta/2611156?fmt=auto&h=1600&w=1600",
+      "ok": true,
+      "path": "imagens/beauty/p68-1.webp",
+      "bytes": 57810
+    },
+    {
+      "id": "p69",
+      "slot": 1,
+      "source": "https://media.ulta.com/i/ulta/2626327?%24ProductCardNeutralBGLight%24=&fmt=auto&h=800&w=800",
+      "ok": false,
+      "error": "Resposta não reconhecida como imagem: image/avif; bytes=8202"
+    },
+    {
+      "id": "p70",
+      "slot": 1,
+      "source": "https://i5.walmartimages.ca/asr/4b37d835-c35a-4be8-b448-7b2c68255ebc.0d8ece863093eaf39f3c3677b904718b.jpeg",
+      "ok": false,
+      "error": "Resposta não reconhecida como imagem: image/avif; bytes=524575"
+    },
+    {
+      "id": "p71",
+      "slot": 1,
+      "source": "https://vader-prod.s3.amazonaws.com/1679084725-lululemon-belt-bag-black-6414ccb03c58f.jpg",
+      "ok": true,
+      "path": "imagens/lululemon/p71-1.jpg",
+      "bytes": 70317
+    },
+    {
+      "id": "p71",
+      "slot": 2,
+      "source": "https://foreverrunwild.com/cdn/shop/files/LW9CM7S_0001_3.webp?v=1721658054&width=1445",
+      "ok": true,
+      "path": "imagens/lululemon/p71-2.webp",
+      "bytes": 73474
+    },
+    {
+      "id": "p72",
+      "slot": 1,
+      "source": "https://cosibella.com.ua/hpeciai/52927887dd32111a3aaa2aec19277e47/ukr_pl_The-Ordinary-Niacinamide-10-Zinc-1-SIROVATKA-Z-NIACINAMIDOM-I-CINKOM-30ml-748_4.webp",
+      "ok": true,
+      "path": "imagens/beauty/p72-1.webp",
+      "bytes": 86586
+    },
+    {
+      "id": "p73",
+      "slot": 1,
+      "source": "https://e7cbb2c9-bb84-4880-8504-79f06f158221.svc.edge.scw.cloud/product/204909/detailsc.jpg",
+      "ok": true,
+      "path": "imagens/beauty/p73-1.jpg",
+      "bytes": 116656
+    },
+    {
+      "id": "p74",
+      "slot": 1,
+      "source": "https://i5.walmartimages.com/seo/Owala-FreeSip-Stainless-Steel-Water-Bottle-24oz-Shy-Marshmallow-White_4ac05787-e0d5-4041-9288-2a2542866745.1b8938836f1d83c80c27e796208cf8bb.jpeg",
+      "ok": false,
+      "error": "Resposta não reconhecida como imagem: image/avif; bytes=9037"
+    },
+    {
+      "id": "p106",
+      "slot": 1,
+      "source": "https://www.sephora.com/productimages/sku/s2210482-main-zoom.jpg",
+      "ok": true,
+      "path": "imagens/fashion/p106-1.webp",
+      "bytes": 62142
+    },
+    {
+      "id": "p110",
+      "slot": 1,
+      "source": "https://images.lululemon.com/is/image/lululemon/LW5CTAS_0001_2",
+      "ok": true,
+      "path": "imagens/lululemon/p110-1.webp",
+      "bytes": 49714
+    },
+    {
+      "id": "p110",
+      "slot": 2,
+      "source": "https://images.lululemon.com/is/image/lululemon/LW5CTAS_0001_3",
+      "ok": true,
+      "path": "imagens/lululemon/p110-2.webp",
+      "bytes": 53716
+    },
+    {
+      "id": "p111",
+      "slot": 1,
+      "source": "https://images.lululemon.com/is/image/lululemon/LW5CQDS_068585_1?size=800%2C800",
+      "ok": true,
+      "path": "imagens/lululemon/p111-1.webp",
+      "bytes": 12200
+    },
+    {
+      "id": "p111",
+      "slot": 2,
+      "source": "https://editorialist.com/web/2021/6/014/713/412/14713412~garnet_2.jpg",
+      "ok": false,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "p112",
+      "slot": 1,
+      "source": "https://images.lululemon.com/is/image/lululemon/LW5FELS_0001_1?size=1600%2C1600",
+      "ok": true,
+      "path": "imagens/lululemon/p112-1.webp",
+      "bytes": 72272
+    },
+    {
+      "id": "p112",
+      "slot": 2,
+      "source": "https://images.lululemon.com/is/image/lululemon/LW5FELS_0001_5?size=1200%2C1200",
+      "ok": true,
+      "path": "imagens/lululemon/p112-2.webp",
+      "bytes": 114708
+    },
+    {
+      "id": "p113",
+      "slot": 1,
+      "source": "https://images.lululemon.com/is/image/lululemon/LW3HTLS_071902_1",
+      "ok": true,
+      "path": "imagens/lululemon/p113-1.webp",
+      "bytes": 228956
+    },
+    {
+      "id": "p113",
+      "slot": 2,
+      "source": "https://storage.googleapis.com/lulu-fanatics/product/100262/1280/lululemon-scuba-oversized-full-zip-hoodie-mauve-grey-gold-071902-535264.jpg",
+      "ok": true,
+      "path": "imagens/lululemon/p113-2.jpg",
+      "bytes": 51880
+    },
+    {
+      "id": "p114",
+      "slot": 1,
+      "source": "https://storage.googleapis.com/lulu-fanatics/product/60545/1280/lululemon-scuba-oversized-1-2-zip-hoodie-pink-mist-8313-335866.jpg",
+      "ok": true,
+      "path": "imagens/lululemon/p114-1.jpg",
+      "bytes": 64626
+    },
+    {
+      "id": "p114",
+      "slot": 2,
+      "source": "https://storage.googleapis.com/lulu-fanatics/product/90379/1280/lululemon-scuba-oversized-half-zip-hoodie-vitapink-064696-480150.jpg",
+      "ok": true,
+      "path": "imagens/lululemon/p114-2.jpg",
+      "bytes": 37328
+    },
+    {
+      "id": "p115",
+      "slot": 1,
+      "source": "https://images.lululemon.com/is/image/lululemon/LW7DHOS_0002_2",
+      "ok": true,
+      "path": "imagens/lululemon/p115-1.webp",
+      "bytes": 62870
+    },
+    {
+      "id": "p115",
+      "slot": 2,
+      "source": "https://images.lululemon.com/is/image/lululemon/LW7DHOS_0002_3",
+      "ok": true,
+      "path": "imagens/lululemon/p115-2.webp",
+      "bytes": 68268
+    },
+    {
+      "id": "p116",
+      "slot": 1,
+      "source": "https://images.lululemon.com/is/image/lululemon/LU9BOTS_0023_4",
+      "ok": true,
+      "path": "imagens/lululemon/p116-1.webp",
+      "bytes": 272694
+    },
+    {
+      "id": "p116",
+      "slot": 2,
+      "source": "https://images.lululemon.com/is/image/lululemon/LU9DBAS_0023_1?size=800%2C800",
+      "ok": true,
+      "path": "imagens/lululemon/p116-2.webp",
+      "bytes": 10034
+    },
+    {
+      "id": "p117",
+      "slot": 1,
+      "source": "https://di2ponv0v5otw.cloudfront.net/posts/2026/04/16/69e1aaab5919e06b1f71200e/l_6a19b589ff0320b108c91727.jpg",
+      "ok": true,
+      "path": "imagens/lululemon/p117-1.jpg",
+      "bytes": 74986
+    },
+    {
+      "id": "p117",
+      "slot": 2,
+      "source": "https://images.lululemon.com/is/image/lululemon/LU9EB1S_077849_4?size=1200%2C1200",
+      "ok": true,
+      "path": "imagens/lululemon/p117-2.webp",
+      "bytes": 96940
+    },
+    {
+      "id": "p119",
+      "slot": 1,
+      "source": "https://images.ctfassets.net/hnk2vsx53n6l/1KEWOfaxTur6hnjidRQiaO/17cae0556149f478fbcda625e2910aa2/bee8b7cb41edf35f08adec307a70f19cb91f9936.png?fm=webp",
+      "ok": true,
+      "path": "imagens/footwear/p119-1.webp",
+      "bytes": 4367730
+    },
+    {
+      "id": "p119",
+      "slot": 2,
+      "source": "https://images.ctfassets.net/hnk2vsx53n6l/7vEqCYji2MLnkyZzBiufna/104b644acfd49fa003d319aa29242601/3d0f0ac5b68edd79ba591565e9cabf05a6ee92f5.png?fm=webp",
+      "ok": true,
+      "path": "imagens/footwear/p119-2.webp",
+      "bytes": 9214514
+    },
+    {
+      "id": "p120",
+      "slot": 1,
+      "source": "https://images.ctfassets.net/hnk2vsx53n6l/Win2L1Jjwv1bUPBQxT0ES/181f5d4e648682b36ebcaf3b5025f0a6/9af623ed6b3fde8423fce4c8d6b70101a0c16169.png?fm=webp",
+      "ok": true,
+      "path": "imagens/footwear/p120-1.webp",
+      "bytes": 5389740
+    },
+    {
+      "id": "p120",
+      "slot": 2,
+      "source": "https://images.ctfassets.net/hnk2vsx53n6l/4uTCrh0kiSC21lTANc76Rp/69b7b3c539e936dd2a7fec891dba6106/8e6bd5230a0103df0f87d8ebda3964af4621fd69.png?fm=webp",
+      "ok": true,
+      "path": "imagens/footwear/p120-2.webp",
+      "bytes": 7773742
+    },
+    {
+      "id": "p122",
+      "slot": 1,
+      "source": "https://images.ctfassets.net/hnk2vsx53n6l/6lwagkEdv2XWiGsJzGXuL8/f97bf7814cd56d36d0b880f4e36b2471/d1e979dd519cf9021ec358564ccd2eb493f6c870.png?fm=webp",
+      "ok": true,
+      "path": "imagens/footwear/p122-1.webp",
+      "bytes": 5475710
+    },
+    {
+      "id": "p122",
+      "slot": 2,
+      "source": "https://images.ctfassets.net/hnk2vsx53n6l/ctiBVSPkculQKCDUcw28o/2257bfceac56577b25659855f7cd6bc5/79728357d989d4f2d1cc93f5427b95e36fe01697.png?fm=webp",
+      "ok": true,
+      "path": "imagens/footwear/p122-2.webp",
+      "bytes": 7507956
+    },
+    {
+      "id": "p123",
+      "slot": 1,
+      "source": "https://images.ctfassets.net/hnk2vsx53n6l/N31dsWDGk4AZAr6enm1zH/8ae87a1509b3f349b3fc41dd77f97230/084b65e3a6298acd6218e64c5e8fb66eea11f978.png?fm=webp",
+      "ok": true,
+      "path": "imagens/footwear/p123-1.webp",
+      "bytes": 4823786
+    },
+    {
+      "id": "p123",
+      "slot": 2,
+      "source": "https://images.ctfassets.net/hnk2vsx53n6l/46XFc0RijKdbV1jA2Ju5QF/5bd957acf8e517cb852eca548a8443b6/8fdbad4d1e72c0709b015190c7e7287e9769b5bc.png?fm=webp",
+      "ok": true,
+      "path": "imagens/footwear/p123-2.webp",
+      "bytes": 8209840
+    },
+    {
+      "id": "p124",
+      "slot": 1,
+      "source": "https://www.cartersoshkosh.ca/dw/image/v2/BDPK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw5409f657/productimages/1V243210.jpg?sh=1000&sw=800",
+      "ok": true,
+      "path": "imagens/baby/p124-1.jpg",
+      "bytes": 58809
+    },
+    {
+      "id": "p125",
+      "slot": 1,
+      "source": "https://www.cartersoshkosh.ca/dw/image/v2/BDPK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw2f4ee386/productimages/1V244810.jpg?sh=1000&sw=800",
+      "ok": true,
+      "path": "imagens/baby/p125-1.jpg",
+      "bytes": 61622
+    },
+    {
+      "id": "p126",
+      "slot": 1,
+      "source": "https://oldnavy.gapcanada.ca/webcontent/0058/038/039/cn58038039.jpg",
+      "ok": true,
+      "path": "imagens/baby/p126-1.webp",
+      "bytes": 321854
+    },
+    {
+      "id": "p128",
+      "slot": 1,
+      "source": "https://digital.loblaws.ca/SDM/SDM_062600632753/en/1/062600632753_en_01_1200.jpeg",
+      "ok": false,
+      "error": "Resposta não reconhecida como imagem: image/avif; bytes=47698"
+    },
+    {
+      "id": "p129",
+      "slot": 1,
+      "source": "https://i5.walmartimages.com/asr/31734838-8a9b-4670-9d58-922f20661396.5f4cc386fbe5128a455b04422dec3c78.jpeg",
+      "ok": false,
+      "error": "Resposta não reconhecida como imagem: image/avif; bytes=178408"
+    },
+    {
+      "id": "p140",
+      "slot": 1,
+      "source": "https://images.ctfassets.net/f3tkdizvrgki/1jWfrjVOwtnsX9qQCMT4Tz/349cb52f947b79d2e43242780010379c/DES_NA_CA_62600632760_100063276_194505_Maximum_Strength_454g_00000_TIF.jpg",
+      "ok": true,
+      "path": "imagens/baby/p140-1.jpg",
+      "bytes": 421245
+    },
+    {
+      "id": "p141",
+      "slot": 1,
+      "source": "https://fimgs.net/himg/o.76547.jpg",
+      "ok": true,
+      "path": "imagens/beauty/p141-1.jpg",
+      "bytes": 1039920
+    },
+    {
+      "id": "p142",
+      "slot": 1,
+      "source": "https://www.giftexpress.com/media/catalog/product/g/x/gxp-5982.jpg",
+      "ok": true,
+      "path": "imagens/beauty/p142-1.jpg",
+      "bytes": 96860
+    },
+    {
+      "id": "p143",
+      "slot": 1,
+      "source": "https://simaro.co/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/B/r/Britney-Spears-ntima-Fantasa-Fragancia-para-las-Mujeres-2-para-pc.jpeg",
+      "ok": true,
+      "path": "imagens/beauty/p143-1.jpg",
+      "bytes": 410059
+    },
+    {
+      "id": "p144",
+      "slot": 1,
+      "source": "https://lisaspopupshop.com/cdn/shop/products/s-l1600_7_e020ad2a-0920-400b-ad2d-4208433077d3_300x.jpg?v=1760617959",
+      "ok": false,
+      "error": "Resposta não reconhecida como imagem: image/avif; bytes=13631"
+    },
+    {
+      "id": "p144",
+      "slot": 2,
+      "source": "https://lisaspopupshop.com/cdn/shop/products/I-Am-Juicy-Couture_300x.jpg?v=1760617959",
+      "ok": false,
+      "error": "Resposta não reconhecida como imagem: image/avif; bytes=10693"
+    },
+    {
+      "id": "p145",
+      "slot": 1,
+      "source": "https://i5.walmartimages.com/seo/Elizabeth-Arden-Green-Tea-Perfume-Gift-Set-for-Women-2-pc-52-Value_2560fb4c-330a-42d7-b6f5-b663946842cd_1.41795c0e2c69a9272be464d0dc8e5462.jpeg",
+      "ok": false,
+      "error": "Resposta não reconhecida como imagem: image/avif; bytes=81774"
+    },
+    {
+      "id": "p146",
+      "slot": 1,
+      "source": "https://leparfum.ca/cdn/shop/files/s-l1600_97614a13-a637-4030-8b09-69b90f676c37.webp?v=1731101180&width=1024",
+      "ok": true,
+      "path": "imagens/beauty/p146-1.webp",
+      "bytes": 84562
+    },
+    {
+      "id": "p149",
+      "slot": 1,
+      "source": "https://i5.walmartimages.ca/images/Enlarge/046/479/6000206046479.jpg",
+      "ok": false,
+      "error": "Resposta não reconhecida como imagem: image/avif; bytes=76668"
+    },
+    {
+      "id": "p162",
+      "slot": 1,
+      "source": "https://contents.mediadecathlon.com/p2643935/k%2495afc8731e3089f30f20971fe8c747cf/picture.jpg?f=3000x0&format=auto",
+      "ok": false,
+      "error": "Resposta não reconhecida como imagem: image/avif;charset=UTF-8; bytes=74543"
+    },
+    {
+      "id": "p163",
+      "slot": 1,
+      "source": "https://contents.mediadecathlon.com/p2718258/k%24ede246bac1ccb69ac57c197a134fe619/picture.jpg?f=3000x0&format=auto",
+      "ok": false,
+      "error": "Resposta não reconhecida como imagem: image/avif;charset=UTF-8; bytes=37654"
+    },
+    {
+      "id": "p165",
+      "slot": 1,
+      "source": "https://image.uniqlo.com/UQ/ST3/ca/imagesgoods/487832/item/cagoods_09_487832_3x4.jpg?width=600",
+      "ok": false,
+      "error": "Resposta não reconhecida como imagem: image/avif; bytes=16348"
+    },
+    {
+      "id": "p166",
+      "slot": 1,
+      "source": "https://cdn11.bigcommerce.com/s-nb5it5hcrj/images/stencil/900w/products/38753/453916/053060_dkp_mwh_fell_ii_womens_3_in_1_jacket_mwh_ecom_gbg_aw25_01__93692.1759416983.jpg?compression=lossy",
+      "ok": true,
+      "path": "imagens/other/p166-1.webp",
+      "bytes": 77608
+    },
+    {
+      "id": "p174",
+      "slot": 1,
+      "source": "https://www.lancome.ca/dw/image/v2/AATL_PRD/on/demandware.static/-/Sites-lancome-master-catalog/default/dw723d8bb3/2026/bundles/TripleSerum-TripleEye-3614272860377-3614274170207.jpg?q=70&sfrm=jpg&sh=320&sm=cut&sw=320",
+      "ok": false,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "p175",
+      "slot": 1,
+      "source": "https://www.lancome.ca/dw/image/v2/AATL_PRD/on/demandware.static/-/Sites-lancome-master-catalog/default/dwa367755e/images/pdp/01407-LAC/3614274991437_renergie-hcf-triple-serum-50ml-gift-set_main.jpg?q=70&sfrm=jpg&sh=320&sm=cut&sw=320",
+      "ok": false,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "p176",
+      "slot": 1,
+      "source": "https://www.lancome.ca/dw/image/v2/AATL_PRD/on/demandware.static/-/Sites-lancome-master-catalog/default/dw09e45768/2026/giftsets/01295-LAC/42dea1a85842c4ae3d1fbba8765da8614152b343.jpg?q=70&sfrm=jpg&sh=320&sm=cut&sw=320",
+      "ok": false,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "p179",
+      "slot": 1,
+      "source": "https://columbiasportswear.do/cdn/shop/files/COL2086711_010_f_om.jpg?v=1765229724",
+      "ok": true,
+      "path": "imagens/other/p179-1.webp",
+      "bytes": 41958
+    },
+    {
+      "id": "p183",
+      "slot": 1,
+      "source": "https://media.columbia.com/i/columbia/1534111_775_f_om?%24img-cache%24=&aspect=1280%3A1344&fmt=auto&qlt=75&sm=aspect&w=375",
+      "ok": false,
+      "error": "Resposta não reconhecida como imagem: image/avif; bytes=7080"
+    },
+    {
+      "id": "p184",
+      "slot": 1,
+      "source": "https://contents.mediadecathlon.com/p2844188/k%24a18d7c390d27ecb76d9f2ba572a2c0c1/picture.jpg?f=3000x0&format=auto",
+      "ok": false,
+      "error": "Resposta não reconhecida como imagem: image/avif;charset=UTF-8; bytes=78172"
+    },
+    {
+      "id": "p185",
+      "slot": 1,
+      "source": "https://contents.mediadecathlon.com/p3069032/k%2403dac74ca0eedd79119c4fb1543a9e01/picture.jpg?f=3000x0&format=auto",
+      "ok": false,
+      "error": "Resposta não reconhecida como imagem: image/avif;charset=UTF-8; bytes=35580"
+    },
+    {
+      "id": "p186",
+      "slot": 1,
+      "source": "https://assets.thenorthface.com/images/t_img/c_fill%2Car_4%3A5%2Cf_auto%2Ch_625%2Ce_sharpen%3A60%2Cw_500/dpr_2.0/v1762368851/NF0A8BKD2EL-HERO/Womens-Antora-Rain-Jacket-TNF-HERO.png",
+      "ok": true,
+      "path": "imagens/jaquetas/p186-1.jpg",
+      "bytes": 108423
+    },
+    {
+      "id": "p187",
+      "slot": 1,
+      "source": "https://oceanbuy.ca/cdn/shop/files/after-blow-after-blow-eau-de-perfume-25ml-01-tender-wood-oceanbuy-beauty-482399.jpg?v=1748011919&width=1080",
+      "ok": true,
+      "path": "imagens/beauty/p187-1.webp",
+      "bytes": 27294
+    },
+    {
+      "id": "p196",
+      "slot": 1,
+      "source": "https://kiyoko.ca/cdn/shop/products/finooo.png?v=1670351971&width=2000",
+      "ok": true,
+      "path": "imagens/beauty/p196-1.webp",
+      "bytes": 12222
+    },
+    {
+      "id": "p197",
+      "slot": 1,
+      "source": "https://kiyoko.ca/cdn/shop/files/Shiseido_Fino_Premium_Touch_Moist_Conditioner_550ml.png?v=1766309018&width=2000",
+      "ok": true,
+      "path": "imagens/fashion/p197-1.webp",
+      "bytes": 26904
+    },
+    {
+      "id": "p250",
+      "slot": 1,
+      "source": "https://kiyoko.ca/cdn/shop/files/TORRIDEN_Dive-In_Low_Molecular_Hyaluronic_Acid_Soothing_Cream_100ml.png?v=1766311972&width=2000",
+      "ok": true,
+      "path": "imagens/fashion/p250-1.webp",
+      "bytes": 22326
+    },
+    {
+      "id": "p270",
+      "slot": 1,
+      "source": "https://kiyoko.ca/cdn/shop/files/SKIN1004_Centella_Tea_Trica_Relief_Ampoule_100ml.png?v=1766403401&width=2000",
+      "ok": true,
+      "path": "imagens/fashion/p270-1.webp",
+      "bytes": 26634
+    },
+    {
+      "id": "p308",
+      "slot": 1,
+      "source": "https://kiyoko.ca/cdn/shop/files/medicube-zero-pore-cream-front.png?v=1756843717&width=2000",
+      "ok": true,
+      "path": "imagens/fashion/p308-1.webp",
+      "bytes": 16140
+    },
+    {
+      "id": "p328",
+      "slot": 1,
+      "source": "https://kiyoko.ca/cdn/shop/files/Untitled_design_73.png?v=1761236499&width=2000",
+      "ok": true,
+      "path": "imagens/fashion/p328-1.webp",
+      "bytes": 65180
+    },
+    {
+      "id": "p394",
+      "slot": 1,
+      "source": "https://kiyoko.ca/cdn/shop/files/Beauty_of_Joseon_Green_Plum_Refreshing_Toner_AHA_BHA_150ml.png?v=1772989094&width=2000",
+      "ok": true,
+      "path": "imagens/fashion/p394-1.webp",
+      "bytes": 19114
+    },
+    {
+      "id": "p401",
+      "slot": 1,
+      "source": "https://kiyoko.ca/cdn/shop/files/ANUA_Heartleaf_77_Clear_Pad.png?v=1754404858&width=2000",
+      "ok": true,
+      "path": "imagens/fashion/p401-1.webp",
+      "bytes": 45982
+    },
+    {
+      "id": "p409",
+      "slot": 1,
+      "source": "https://kiyoko.ca/cdn/shop/files/Dr._Althea_PDRN_Reju_5000.png?v=1773503089&width=2000",
+      "ok": true,
+      "path": "imagens/fashion/p409-1.webp",
+      "bytes": 29688
+    }
+  ]
+}
